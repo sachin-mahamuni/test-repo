@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println( "Hello World4!" );
+        System.out.println( "GitHub Jenkins job creation!" );
         
     }
 }
